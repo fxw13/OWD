@@ -6,7 +6,7 @@ Authors: Lei Zhang, Xiaowei Fu, Fuxiang Huang, Yi Yang, Xinbo Gao
 
 We develop a new Open-World, Diverse, Cross-Spatial-Temporal dataset named OWD with several distinct features. 1) Diverse collection scenes: multiple independent open-world and highly dynamic collecting scenes, including streets, intersections, shopping malls, etc. 2) Diverse lighting variations: long time spans from daytime to nighttime with abundant illumination changes. 3) Diverse person status: multiple camera networks in all seasons with normal/adverse weather conditions and diverse pedestrian appearances (e.g., clothes, personal belongings, poses, etc.). 4) Largest scale: It covers the largest number of (84) cameras, (3986) identities, and (136,614) bounding boxes. 
 
-<br>
+
 <br>
 <br>
 <div align=center>
