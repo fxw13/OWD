@@ -9,28 +9,32 @@ We develop a new Open-World, Diverse, Cross-Spatial-Temporal dataset named OWD w
 
 <br>
 <div align=center>
-<img src="figures/figure1.jpg" width="50%">
+<img src="figures/figure1.jpg" width="60%">
 </div>
 Figure A. Statistics of existing person ReID datasets. The digit above each circle is the number of data collection scenes, the sky-blue circles are real data and the grass-green circles represent synthetic data.
-
-
-
 <br>
+<br>
+
+
+
+
+
+
 <div align=center>
-<img src="figures/figure3.jpeg" width="50%">
+<img src="figures/figure3.jpeg" width="60%">
 </div>
 Figure B. Examples from OWD with various scenes, camera views, lighting conditions and clothing changes, etc.
-
-
-
 <br>
+<br>
+
+
 <div align=center>
 <img src="figures/figure5.jpeg" width="50%">
 </div>
 Figure C. Several collection scenarios of web data, synthetic data and OWD.
 
 
-
+<br>
 <br>
 <div align=center>
 <img src="figures/figure6.jpeg" width="50%">
