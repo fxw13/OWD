@@ -46,7 +46,10 @@ Figure C. Several collection scenarios of web data, synthetic data and OWD.
 </div>
 Figure D. Examples of pictures captured by different cameras under the night collection scene, which show rich visual changes.
 
-
+<br>
+<br>
+<br>
+<br>
 
 # Terms to apply
 1) The dataset provided is strictly limited to non-commercial research purposes only.
@@ -59,7 +62,10 @@ Figure D. Examples of pictures captured by different cameras under the night col
 
 The right to terminate access to this dataset is solely reserved.
 
-
+<br>
+<br>
+<br>
+<br>
 # Download
 
 We will release this dataset very soon. 
