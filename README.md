@@ -65,7 +65,7 @@ The right to terminate access to this dataset is solely reserved.
 
 # Download
 
-Users need to download and sign our [Restrictions for The Use of OWD](https://github.com/fxw13/OWD/blob/main/Restrictions%20for%20The%20Use%20of%20OWD.pdf) and send it to live_group@163.com. We will soon send the download link and other related documents to the users. Users are expected to contact us using the institutional email address. 
+Users need to download and sign our [Restrictions for The Use of OWD](https://github.com/fxw13/OWD/blob/main/Restrictions%20for%20The%20Use%20of%20OWD.pdf) and send it to leizhang@cqu.edu.cn; live_group@163.com; or xwfu@cqu.edu.cn. We will soon send the download link and other related documents to the users. Users are expected to contact us using the institutional email address. 
 
 请大家用学校的邮箱发送申请，可以直接用中文填写。我们会尽快验证并将下载链接回复给您，请及时查看邮件。
 
