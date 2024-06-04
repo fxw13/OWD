@@ -65,4 +65,17 @@ The right to terminate access to this dataset is solely reserved.
 
 # Download
 
-We will release this dataset very soon. 
+Users need to download and sign our [Restrictions for The Use of OWD](https://github.com/fxw13/OWD/blob/main/Restrictions%20for%20The%20Use%20of%20OWD.pdf) and send it to live_group@163.com. We will soon send the download link and other related documents to the users. Users are expected to contact us using the institutional email address. 
+
+请大家用学校的邮箱发送申请，可以直接用中文填写。我们会尽快验证并将下载链接回复给您，请及时查看邮件。
+
+# Citations
+If this dataset is helpful for your research, please cite the following paper:
+```
+@article{zhang2024open,
+  title={An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification},
+  author={Zhang, Lei and Fu, Xiaowei and Huang, Fuxiang and Yang, Yi and Gao, Xinbo},
+  journal={International Journal of Computer Vision},
+  year={2024}
+}
+```
