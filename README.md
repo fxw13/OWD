@@ -79,3 +79,16 @@ If this dataset is helpful for your research, please cite the following paper:
   year={2024}
 }
 ```
+
+# Some Users of this benchmark
+Hunan University 
+
+Korea Institute of Science and Technology
+
+South-Central Minzu University 
+
+Inner Mongolia University of Technology 
+
+Fujitsu 
+
+University of Science and Technology of China
